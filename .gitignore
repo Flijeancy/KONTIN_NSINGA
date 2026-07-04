@@ -1,0 +1,19 @@
+# Node
+node_modules/
+
+# Expo
+.expo/
+.expo-shared/
+
+# macOS
+.DS_Store
+
+# Build
+web-build/
+
+# Firebase
+backend/functions/node_modules/
+
+.env
+.env.local
+.env.*.local
